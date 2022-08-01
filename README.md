@@ -4,3 +4,4 @@ App Android Nativo de Simulação de Partidas. Este repositorio foi organizado e
 
 1. Desenvolvimento Mobile Nativo Para Android
   - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/armandocamargo/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
+  - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/armandocamargo/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
